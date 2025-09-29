@@ -1,1 +1,1 @@
-The `custom_leaflet_map` surveydown template
+The `custom_plotly_chart` surveydown template
