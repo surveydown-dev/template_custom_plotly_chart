@@ -27,7 +27,7 @@ required-questions:
 library(surveydown)
 ```
 
-::: {.sd_page id=plotly_chart}
+--- plotly_chart
 
 # Template - Custom Plotly Chart
 
@@ -43,9 +43,7 @@ sd_output("point_selection", type = "question")
 sd_next()
 ```
 
-:::
-
-::: {.sd_page id=end}
+--- end
 
 ## End
 
@@ -54,5 +52,3 @@ This it the last page in the survey.
 ```{r}
 sd_close("Exit Survey")
 ```
-
-:::
