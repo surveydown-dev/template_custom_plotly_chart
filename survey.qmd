@@ -9,6 +9,7 @@ theme-settings:
   footer-right: '[<i class="bi bi-github"></i> Source Code](https://github.com/surveydown-dev/template_custom_plotly_chart)'
 
 survey-settings:
+  mode: preview
   show-previous: false
   use-cookies: false
   auto-scroll: false
