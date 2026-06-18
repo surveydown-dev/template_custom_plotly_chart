@@ -1,6 +1,16 @@
-A template of [custom plotly chart](https://surveydown.org/docs/custom-questions#plotly-chart-example) question using `sd_question_custom()`.
+A template of a custom plotly chart question using `sd_question_custom()`.
 
-To create this template, run this command in your R console:
+### 🎬 Video
+
+This template has no live online demo. A video walkthrough is provided instead.
+
+### Template page
+
+https://surveydown.org/templates/custom_plotly_chart
+
+### Create this template
+
+Run this command in your R console:
 
 ```r
 surveydown::sd_create_survey(
@@ -9,4 +19,6 @@ surveydown::sd_create_survey(
 )
 ```
 
-Refer to the [Start with a template](https://surveydown.org/docs/getting-started#start-with-a-template) section for more details.
+### Documentation
+
+[Custom questions: plotly chart](https://surveydown.org/docs/custom-questions#plotly-chart-example) · [Start with a template](https://surveydown.org/docs/getting-started#start-with-a-template)
