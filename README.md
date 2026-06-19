@@ -1,12 +1,10 @@
 A template of a custom plotly chart question using `sd_question_custom()`.
 
-### 🎬 Video
+### 🎬 Walkthrough Recording
 
-This template has no live online demo. A video walkthrough is provided instead.
+[![Walkthrough recording](video-thumbnail.jpg)](https://github.com/surveydown-dev/template_custom_plotly_chart/blob/main/video-recording.mp4)
 
-<video src="https://github.com/surveydown-dev/template_custom_plotly_chart/raw/main/video-recording.mp4" controls width="100%"></video>
-
-[▶ Watch the walkthrough](https://github.com/surveydown-dev/template_custom_plotly_chart/raw/main/video-recording.mp4)
+*Click the image above to play the recording.*
 
 ### Template page
 
