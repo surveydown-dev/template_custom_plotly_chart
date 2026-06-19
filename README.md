@@ -2,7 +2,7 @@ A template of a custom plotly chart question using `sd_question_custom()`.
 
 ### 🎬 Walkthrough Recording
 
-[![Walkthrough recording](video-thumbnail.jpg)](https://github.com/surveydown-dev/template_custom_plotly_chart/blob/main/video-recording.mp4)
+[![Walkthrough recording](video-thumbnail.png)](https://cdn.jsdelivr.net/gh/surveydown-dev/template_custom_plotly_chart@main/video-recording.mp4)
 
 *Click the image above to play the recording.*
 
